@@ -8,4 +8,8 @@ public String sendMsg() {
 public String test(String msg) {
 	return "hellow";
 }
+
+public Date new Date(){
+	return new Date();
+	}
 }
